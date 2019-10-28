@@ -1,0 +1,30 @@
+_repo: The-Criticism-of-the-Fourth-Gospel-Eight-Lectures-on-the-Morse-Foundation-Delivered-in-the-Un__60553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanday, W. (William)
+    aliases:
+    - Sanday, William
+    - Sanday, Rev. Dr. (William)
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3766'
+    url: http://www.gutenberg.org/2009/agents/3766
+    wikipedia: https://en.wikipedia.org/wiki/William_Sanday_(theologian)
+description: ''
+gutenberg_issued: '2019-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60553'
+  lccn: '05030050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. John -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: "The Criticism of the Fourth Gospel\r\nEight Lectures on the Morse Foundation,\
+  \ Delivered in the Union Seminary, New York in October and November 1904"
+url: http://www.gutenberg.org/ebooks/60553
